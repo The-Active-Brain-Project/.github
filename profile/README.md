@@ -1,22 +1,23 @@
 <h1 align="center">
-  👋 Welcome to The Active Brain Project GitHub Organisation
+  🧠 Active Brain Project
 </h1>
 
+Welcome to the Active Brain Project GitHub organisation. This hub hosts the scripts and workflows developed by our team at University College London (UCL).
 
-###  About Us
+The project explores how lifestyle factors — such as sleep, stress, physical activity, and nutrition — affect cognitive performance and wellbeing. Using wearable devices, questionnaires, and cognitive tasks, we aim to generate insights that support health and workplace wellbeing.
 
-We are ...
+###  📂 Repository Contents
 
-* 🚀 We are focused on ...
-* 💻 We are passionate about ...
-* 🌍 We are a ... team.
+* **Data Cleaning** – scripts for importing, tidying, and quality‑checking data
+* **Data Integration** – merging wearable, questionnaire, and cognitive task datasets
+* **Analysis Pipelines** – sleep, HRV, activity, and cognition analyses
+* **Visualisation** – plots and dashboards for exploration and reporting
+* **Utilities** – functions for monitoring adherence and generating summaries
 
-### ✨ Our Key Projects
+### 📜 Citation & Acknowledgement
 
-Here are some of the main projects we are working on. We'd love for you to check them out!
+If you use or adapt any of the scripts in your own research, please acknowledge the **Active Brain Study, UCL**. A formal citation will be provided once our primary publications are released.
 
+### 📫 Contact
 
-
-### 📫 Get in Touch
-
-For official inquiries, you can reach us at [contact@your-org.com].
+For questions about the study or collaboration opportunities, please contact: Active Brain Project Team – [activebrainproject@ucl.ac.uk]
